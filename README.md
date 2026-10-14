@@ -2,6 +2,6 @@
 
 ###
 
-<p align="left">Im Software Engineer for Acredite.</p>
+<p align="left">Im Software Engineer.</p>
 
 ###
